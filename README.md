@@ -12,6 +12,4 @@ AI-Powered Study Assistant built with Python.
 - Python 3
 - (Will add NLP libraries later)
 
-## 🚀 How to Run
-```bash
-python main.py
+## 
