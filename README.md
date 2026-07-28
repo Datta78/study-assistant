@@ -1,8 +1,4 @@
-# Study Assistant
-
-AI-Powered Study Assistant built with Python.
-
-## ✨ Features
+#
 - Summarize long notes
 - Generate practice quizzes
 - Simple chat for study help
